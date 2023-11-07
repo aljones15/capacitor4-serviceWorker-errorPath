@@ -1,0 +1,18 @@
+{
+  "name": "cap4-sw-demo",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aljones15/capacitor4-serviceWorker-errorPath"
+  },
+  "dependencies": {
+    "@capacitor/android": "^4.6.3",
+    "@capacitor/app": "^4.1.1",
+    "@capacitor/cli": "^4.6.3",
+    "@capacitor/core": "^4.6.3",
+    "@capacitor/ios": "^4.6.3"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^2.0.4"
+  }
+}
