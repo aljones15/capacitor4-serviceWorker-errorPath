@@ -1,0 +1,16 @@
+*.lcov
+*.log
+*.sw[nop]
+*~
+.nyc_output
+.project
+.settings
+.vscode
+capacitor.config.json
+native-app-config.sh
+TAGS
+coverage
+node_modules
+resources/**
+icons/
+!.gitkeep
