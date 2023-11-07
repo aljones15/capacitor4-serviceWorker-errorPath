@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">OfflineErrorScreen</string>
+    <string name="title_activity_main">OfflineErrorScreen</string>
+    <string name="package_name">com.example.angular.service.worker</string>
+    <string name="custom_url_scheme">com.example.angular.service.worker</string>
+</resources>
