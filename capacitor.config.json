@@ -1,0 +1,26 @@
+{
+  "appId": "com.example.angular.service.worker",
+  "appName": "OfflineErrorScreen",
+  "bundledWebRuntime": false,
+  "webDir": "./www",
+  "loggingBehavior": "debug",
+  "android": {
+    "webContentsDebuggingEnabled": true,
+    "allowMixedContent": true
+  },
+  "ios": {
+    "limitsNavigationsToAppBoundDomains": true
+  },
+  "server": {
+    "url": "https://angular.io",
+    "allowNavigation": [
+       "angular.io", "localhost"
+     ],
+    "errorPath": "applicationError.html"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": false
+    }
+  }
+}
